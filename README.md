@@ -1,5 +1,7 @@
+Frozen archive of double integrator with basic autonomy. Should be treated as reference. No future code commits.
+
 Build:
-./scripts/build.zsh
+source ./scripts/build.zsh
 
 Test:
 ./scripts/test.zsh
