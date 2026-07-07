@@ -1,0 +1,9 @@
+
+{
+  "python.analysis.extraPaths": [
+    "/opt/ros/jazzy/lib/python3.12/site-packages",
+    "ros2_ws/install/autonomy_core/lib/python3.12/site-packages",
+    "ros2_ws/install/autonomy_sim/lib/python3.12/site-packages",
+    "ros2_ws/install/fake_drone_sim/lib/python3.12/site-packages"
+  ]
+}
